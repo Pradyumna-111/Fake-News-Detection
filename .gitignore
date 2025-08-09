@@ -1,0 +1,19 @@
+# Python
+venv/
+__pycache__/
+*.pyc
+
+# Model and data files (optional but recommended)
+data/
+*.bin
+*.safetensors
+fine_tuned_bert/
+*.pt
+
+# Node.js / React
+node_modules/
+dist/
+build/
+
+# Environment files
+.env
